@@ -67,7 +67,7 @@ Create an OAuth client in Google Cloud Console with the **authorised redirect UR
 ### Demo accounts (after `npm run seed` in the server)
 | Role | Email | Password |
 |---|---|---|
-| Admin | `ADMIN_EMAIL` from the server `.env` | `ADMIN_PASSWORD` |
+| Admin | `julkarnain929@gmail.com` from the server `.env` | `Admin123` |
 | Vendor (Free) | elena@ivorylens.co | Demo1234 |
 | Vendor (Premium) | rahim@royalvenues.bd | Demo1234 |
 | Customer | claire@example.com | Demo1234 |
