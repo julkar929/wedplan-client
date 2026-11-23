@@ -3,7 +3,7 @@
 Next.js (App Router) front-end for **WedPlan – Wedding Planning Platform**: customers discover and book wedding
 services, vendors manage listings and a Premium subscription, admins moderate the platform.
 
-- **Server repo:** <https://github.com/YOUR-USERNAME/wedplan-server>  ← _replace_
+- **Server repo:** <https://github.com/julkar929/wedplan-server>
 - **Live site:** _add deployed URL_
 - **Live API:** _add deployed URL_
 
